@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kjacob1029/dev/tmp/DataStructs/src/cb.cpp
+iostream
+-
+thread
+-
+boost/circular_buffer.hpp
+-
+
